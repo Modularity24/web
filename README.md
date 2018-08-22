@@ -1,1 +1,1 @@
-# web
+Static Generated website using Next JS
