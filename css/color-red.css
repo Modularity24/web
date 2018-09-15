@@ -1,0 +1,15 @@
+/* Color */
+a:link,
+a:visited,
+a:hover,
+.entry-title a:hover,
+#sidebar .widget a:hover { color:#BB1A12; }
+
+/* Background */
+.nav li a:hover,
+.nav li.first a,
+.nav .current_page_item a,
+.rsDefault .rsTab:active .rsTmb span,
+.rsDefault .rsTab.rsNavSelected .rsTmb span {
+	background: #BB1A12;
+}

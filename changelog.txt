@@ -1,0 +1,7 @@
+*** eStudio Changelog ***
+
+2013.08.30 - version 1.0.1
+ * Fixed bugs in translation
+
+2013.08.26 - version 1.0.0
+ * First release!

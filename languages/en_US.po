@@ -1,0 +1,577 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eStudio 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-26 22:43+0700\n"
+"PO-Revision-Date: 2013-08-26 22:43+0700\n"
+"Last-Translator: Roy Guan <roy@theme-junkie.com>\n"
+"Language-Team: Theme Junkie <support@theme-junkie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:5
+msgid "Error 404"
+msgstr ""
+
+#: ../404.php:8
+msgid "The page you've requested <strong>can not be displayed</strong>. It appears you've missed your intended destination, either through a bad or outdated link, or a typo in the page you were hoping to reach."
+msgstr ""
+
+#: ../archive.php:7
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: ../archive.php:9
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: ../archive.php:11
+#: ../archive.php:13
+#: ../archive.php:15
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:17
+msgid "All posts by"
+msgstr ""
+
+#: ../archive.php:19
+msgid "Blog Archives"
+msgstr ""
+
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:29
+#: ../content-home.php:21
+#: ../content.php:29
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:29
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:29
+#: ../content-home.php:21
+#: ../content.php:29
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Trackbacks"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:77
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:78
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: ../comments.php:81
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:82
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:84
+msgid "Submit Comment"
+msgstr ""
+
+#: ../content-home.php:6
+#: ../content.php:9
+msgid "Read Article"
+msgstr ""
+
+#: ../content-home.php:20
+#: ../content.php:28
+msgid "by"
+msgstr ""
+
+#: ../content-home.php:21
+#: ../content.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-home.php:24
+#: ../content.php:32
+msgid "Posted in: "
+msgstr ""
+
+#: ../content-home.php:26
+#: ../content.php:34
+#: ../page.php:18
+#: ../single-portfolio.php:101
+msgid "Edit"
+msgstr ""
+
+#: ../content-none.php:1
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:6
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:10
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: ../content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../content.php:42
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content.php:43
+#: ../page.php:14
+msgid "Pages:"
+msgstr ""
+
+#: ../footer.php:37
+msgid "All rights reserved"
+msgstr ""
+
+#: ../header.php:73
+msgid "Home"
+msgstr ""
+
+#: ../header.php:81
+msgid "Menu"
+msgstr ""
+
+#: ../index.php:76
+#: ../single-portfolio.php:140
+msgid "View Project"
+msgstr ""
+
+#: ../search.php:4
+#, php-format
+msgid "Search Results for: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../single-portfolio.php:72
+msgid "Date"
+msgstr ""
+
+#: ../single-portfolio.php:77
+msgid "Client"
+msgstr ""
+
+#: ../single-portfolio.php:84
+msgid "Skills"
+msgstr ""
+
+#: ../single-portfolio.php:93
+msgid "Launch Project"
+msgstr ""
+
+#: ../single-portfolio.php:107
+msgid "Related Work"
+msgstr ""
+
+#: ../template-archives.php:12
+msgid "The Latest 30 Posts"
+msgstr ""
+
+#: ../template-archives.php:16
+#: ../template-sitemap.php:51
+msgid "Comments"
+msgstr ""
+
+#: ../template-archives.php:21
+#: ../template-sitemap.php:28
+msgid "Categories"
+msgstr ""
+
+#: ../template-archives.php:27
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../template-contact.php:63
+msgid "Thanks, your email was sent successfully. "
+msgstr ""
+
+#: ../template-contact.php:73
+msgid "Name:"
+msgstr ""
+
+#: ../template-contact.php:80
+msgid "Email:"
+msgstr ""
+
+#: ../template-contact.php:87
+msgid "Message:"
+msgstr ""
+
+#: ../template-contact.php:96
+msgid "Send Email"
+msgstr ""
+
+#: ../template-portfolio.php:63
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../template-sitemap.php:20
+msgid "Pages"
+msgstr ""
+
+#: ../template-sitemap.php:37
+msgid "Posts per category"
+msgstr ""
+
+#: ../functions/shortcodes/tinymce/window_page.php:6
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../functions/shortcodes/tinymce/window_page.php:42
+msgid "Select Shortcodes"
+msgstr ""
+
+#: ../includes/custom-functions.php:19
+msgid "Primary Nav"
+msgstr ""
+
+#: ../includes/custom-functions.php:181
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../includes/custom-functions.php:184
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/custom-functions.php:184
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/custom-functions.php:187
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/meta-featured-slider.php:5
+msgid "Slide Settings"
+msgstr ""
+
+#: ../includes/meta-featured-slider.php:11
+msgid "Slide Image "
+msgstr ""
+
+#: ../includes/meta-featured-slider.php:12
+msgid "Upload an image or enter an URL to your slide image"
+msgstr ""
+
+#: ../includes/meta-featured-slider.php:24
+#: ../includes/meta-portfolio-items.php:106
+msgid "Short Description"
+msgstr ""
+
+#: ../includes/meta-featured-slider.php:25
+msgid "Enter a short description to the slide "
+msgstr ""
+
+#: ../includes/meta-featured-slider.php:31
+msgid "URL"
+msgstr ""
+
+#: ../includes/meta-featured-slider.php:32
+msgid "Enter URL if you want to add a link to the uploaded image and title. (optional) "
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:5
+msgid "Image Settings"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:11
+msgid "Image 1"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:12
+#: ../includes/meta-portfolio-items.php:26
+#: ../includes/meta-portfolio-items.php:40
+#: ../includes/meta-portfolio-items.php:54
+#: ../includes/meta-portfolio-items.php:68
+msgid "940px x unlimited"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:25
+msgid "Image 2"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:39
+msgid "Image 3"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:53
+msgid "Image 4"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:67
+msgid "Image 5"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:85
+msgid "Video Settings"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:90
+msgid "Video Embedded Code"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:91
+msgid "best width: 940px"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:100
+msgid "Additional Info Settings"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:113
+msgid "Client Name"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:120
+msgid "External Link"
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:148
+msgid "Upload an image and then click \"insert into post\". To delete an image, simply clear the field."
+msgstr ""
+
+#: ../includes/meta-portfolio-items.php:208
+msgid "These settings enable you to embed videos into your portfolio pages."
+msgstr ""
+
+#: ../includes/meta-testimonials.php:5
+msgid "Testimonial Author Information"
+msgstr ""
+
+#: ../includes/meta-testimonials.php:11
+msgid "Author Name "
+msgstr ""
+
+#: ../includes/meta-testimonials.php:18
+msgid "Site Name "
+msgstr ""
+
+#: ../includes/meta-testimonials.php:25
+msgid "Site URL "
+msgstr ""
+
+#: ../includes/sidebar-init.php:5
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../includes/sidebar-init.php:7
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: ../includes/sidebar-init.php:15
+msgid "Footer (column1)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:17
+#: ../includes/sidebar-init.php:27
+#: ../includes/sidebar-init.php:37
+#: ../includes/sidebar-init.php:47
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../includes/sidebar-init.php:25
+msgid "Footer (column2)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:35
+msgid "Footer (column3)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:45
+msgid "Footer (column4)"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:8
+msgid "Featured Slider"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:9
+msgid "Slide"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:10
+#: ../includes/theme-posttypes.php:44
+#: ../includes/theme-posttypes.php:79
+msgid "Add New"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:11
+msgid "Add New Slide"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:12
+msgid "Edit Slide"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:13
+msgid "New Slide"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:14
+msgid "View Slide"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:15
+msgid "Search Slide"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:16
+msgid "No slide found"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:17
+msgid "No slide found in Trash"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:34
+msgid "slide"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:42
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:43
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:45
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:46
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:47
+msgid "New Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:48
+msgid "View Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:49
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:50
+msgid "No testimonial found"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:51
+msgid "No testimonial found in Trash"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:68
+msgid "testimonial"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:77
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:78
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:80
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:81
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:82
+msgid "New Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:83
+msgid "View Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:84
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:85
+msgid "No portfolio found"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:86
+msgid "No portfolio found in Trash"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:103
+#: ../includes/theme-posttypes.php:116
+msgid "portfolio"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:110
+msgid "Portfolio Types"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:111
+msgid "Portfolio Type"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:116
+#: ../includes/theme-posttypes.php:137
+msgid "portfolio-type"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:124
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:125
+msgid "Type"
+msgstr ""
+
+#: ../includes/theme-posttypes.php:136
+msgid "type"
+msgstr ""
+
