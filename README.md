@@ -1,1 +1,3 @@
-Static Generated website using Next JS
+Documentation
+
+TJ - Theme Junkie
